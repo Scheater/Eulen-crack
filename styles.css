@@ -32,7 +32,6 @@ body {
     color: white;
     line-height: 40px;
     height: 40px;
-    padding-top: 10px;  /* Verschiebt den Text nach unten */
 }
 
 #fullscreen-btn:hover .top {
@@ -46,7 +45,6 @@ body {
     line-height: 20px;
     font-size: 14px;
 }
-
 
 #fullscreen-content {
     display: none;
