@@ -15,7 +15,7 @@ body {
     position: relative;
     top: 20px;  /* Positioniert den Button unter dem letzten Text */
     left: 0;  /* Links ausgerichtet */
-    width: 200px;
+    width: 250px;
     height: 60px;
     text-align: center;
     cursor: pointer;
