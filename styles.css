@@ -31,7 +31,7 @@ body {
     transition: all 300ms ease-in-out;
     color: white;
     line-height: 40px;
-    height: 40px;
+    height: 45px;
 }
 
 #fullscreen-btn:hover .top {
